@@ -18,7 +18,7 @@ I am currently pursuing my Bachelors degree 🌱 in _Computer Science_ from _Inf
   - [Simple Airbnb website frontend](https://github.com/fahirashoaib/AirBnbProject) & [Simple Airbnb website backend](https://github.com/fahirashoaib/airbnb-backend)
   - [Notes Taking website](https://github.com/fahirashoaib/mern-thinkboard)
 - JavaScript based projects:
-  - [Practice Portfolio website](https://github.com/fahirashoaib/Professional-portfolio)
+  - [Practice Portfolio website](https://github.com/fahirashoaib/practice-portfolio-website)
 - HTML & CSS based projects:
   - [Skyline](https://github.com/fahirashoaib/Skyline)
   - [Cafe Menu](https://github.com/fahirashoaib/Cafe-menu)
