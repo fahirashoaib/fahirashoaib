@@ -6,8 +6,10 @@ I am currently pursuing my Bachelors degree 🌱 in _Computer Science_ from _Inf
 
 ## Technical Skills 🔧
 
-- **Languages:** JavaScript
-- **Frameworks & Libraries:** React, Node.js
+- **Languages:** JavaScript, Python, C#, C++, SQL, HTML, CSS
+- **Frontend:** React, Tailwind CSS
+- **Backend:** Node.js, .NET
+- **Testing:** Postman
 - **Tools & Platforms:** Github
 
 ## Key Projects 📌
