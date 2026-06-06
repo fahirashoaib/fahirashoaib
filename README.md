@@ -8,7 +8,7 @@ I am currently pursuing my Bachelors degree 🌱 in _Computer Science_ from _Inf
 
 - **Languages:** JavaScript, Python, C#, C++, SQL, HTML, CSS
 - **Frontend:** React, Tailwind CSS
-- **Backend:** Node.js, .NET
+- **Backend:** Node.js
 - **Testing:** Postman
 - **Tools & Platforms:** Github
 
