@@ -1,8 +1,8 @@
-👋Hi, I'm Fahira Shoaib! I'm a computer science student focussed on learning the software engineering skills.
+👋Hi, My name is Fahira Shoaib! I'm a computer science graduate focussed on developing software engineering skills.
 
 ## About Me ✨
 
-I am currently pursuing my Bachelors degree 🌱 in _Computer Science_ from _Information Technology University of the Punjab_. My passion lies in developing software solutions that solve problems.
+I have completed my Bachelors degree 🌱 in _Computer Science_ from _Information Technology University of the Punjab_. My passion lies in developing secure software solutions that actually solve a real world problem.
 
 ## Technical Skills 🔧
 
@@ -15,3 +15,4 @@ I am currently pursuing my Bachelors degree 🌱 in _Computer Science_ from _Inf
 ## Professional Goals 🚀
 - Career development
 - Continuous learning
+- Strong Communication
